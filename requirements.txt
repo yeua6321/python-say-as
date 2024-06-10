@@ -1,2 +1,7 @@
 Flask
 requests
+streamlit
+matplotlib
+numpy
+torch
+fastai==1.0.61
